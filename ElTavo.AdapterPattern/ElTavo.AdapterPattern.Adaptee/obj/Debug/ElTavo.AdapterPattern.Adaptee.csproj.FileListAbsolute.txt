@@ -1,0 +1,5 @@
+D:\Tavo\Proyectos\Patrones\ElTavo.AdapterPattern\ElTavo.AdapterPattern.Adaptee\bin\Debug\ElTavo.AdapterPattern.Adaptee.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.AdapterPattern\ElTavo.AdapterPattern.Adaptee\bin\Debug\ElTavo.AdapterPattern.Adaptee.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.AdapterPattern\ElTavo.AdapterPattern.Adaptee\obj\Debug\ElTavo.AdapterPattern.Adaptee.csprojResolveAssemblyReference.cache
+D:\Tavo\Proyectos\Patrones\ElTavo.AdapterPattern\ElTavo.AdapterPattern.Adaptee\obj\Debug\ElTavo.AdapterPattern.Adaptee.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.AdapterPattern\ElTavo.AdapterPattern.Adaptee\obj\Debug\ElTavo.AdapterPattern.Adaptee.pdb

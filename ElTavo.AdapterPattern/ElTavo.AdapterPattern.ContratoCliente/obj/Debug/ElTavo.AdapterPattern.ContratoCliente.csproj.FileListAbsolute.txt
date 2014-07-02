@@ -1,0 +1,5 @@
+D:\Tavo\Proyectos\ElTavo.AdapterPattern\ElTavo.AdapterPattern\ElTavo.AdapterPattern.ContratoCliente\bin\Debug\ElTavo.AdapterPattern.ContratoCliente.dll
+D:\Tavo\Proyectos\ElTavo.AdapterPattern\ElTavo.AdapterPattern\ElTavo.AdapterPattern.ContratoCliente\bin\Debug\ElTavo.AdapterPattern.ContratoCliente.pdb
+D:\Tavo\Proyectos\ElTavo.AdapterPattern\ElTavo.AdapterPattern\ElTavo.AdapterPattern.ContratoCliente\obj\Debug\ElTavo.AdapterPattern.ContratoCliente.csprojResolveAssemblyReference.cache
+D:\Tavo\Proyectos\ElTavo.AdapterPattern\ElTavo.AdapterPattern\ElTavo.AdapterPattern.ContratoCliente\obj\Debug\ElTavo.AdapterPattern.ContratoCliente.dll
+D:\Tavo\Proyectos\ElTavo.AdapterPattern\ElTavo.AdapterPattern\ElTavo.AdapterPattern.ContratoCliente\obj\Debug\ElTavo.AdapterPattern.ContratoCliente.pdb

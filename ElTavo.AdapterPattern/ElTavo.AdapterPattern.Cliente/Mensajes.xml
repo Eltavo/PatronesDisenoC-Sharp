@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Mensajes>
+  <Mensaje codigo="1">Error, por favor especifique todos los campos requeridos.</Mensaje>
+  <Mensaje codigo="2">Señor usuario, revise los datos digitados, error covirtirtiendo un tipo.</Mensaje>
+</Mensajes>

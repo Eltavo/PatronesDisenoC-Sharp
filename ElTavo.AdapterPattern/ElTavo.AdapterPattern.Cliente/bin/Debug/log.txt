@@ -1,0 +1,43 @@
+
+Log Entry : 10:34:32 AM Tuesday, July 01, 2014
+  :
+  :La cadena de entrada no tiene el formato correcto.
+-------------------------------
+
+Error StackTrace : 
+Log Entry : 10:35:34 AM Tuesday, July 01, 2014
+  :
+  :La cadena de entrada no tiene el formato correcto.
+-------------------------------
+
+Error StackTrace : 
+Log Entry : 10:35:52 AM Tuesday, July 01, 2014
+  :
+  :La cadena de entrada no tiene el formato correcto.
+-------------------------------
+
+Error StackTrace : 
+Log Entry : 10:35:52 AM Tuesday, July 01, 2014
+  :
+  :La cadena de entrada no tiene el formato correcto.
+-------------------------------
+
+Error StackTrace : 
+Log Entry : 10:36:47 AM Tuesday, July 01, 2014
+  :
+  :La cadena de entrada no tiene el formato correcto.
+-------------------------------
+
+Error StackTrace : 
+Log Entry : 10:37:46 AM Tuesday, July 01, 2014
+  :
+  :La cadena de entrada no tiene el formato correcto.
+-------------------------------
+
+Error StackTrace : 
+Log Entry : 10:44:04 AM Tuesday, July 01, 2014
+  :
+  :La cadena de entrada no tiene el formato correcto.
+-------------------------------
+
+Error StackTrace : 
