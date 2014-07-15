@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElTavo.FacadePattern.Nomina", "ElTavo.FacadePattern.Nomina\ElTavo.FacadePattern.Nomina.csproj", "{5B92D5EC-5323-4643-81BF-0D4D090C48F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElTavo.FacadePattern.Incentivos", "ElTavo.FacadePattern.Incentivos\ElTavo.FacadePattern.Incentivos.csproj", "{755E3908-C48A-4C62-A200-98EBCAE543C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElTavo.FacadePattern.Beneficios", "ElTavo.FacadePattern.Beneficios\ElTavo.FacadePattern.Beneficios.csproj", "{E85267EC-79F5-41EB-8CB4-9585B284C267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElTavo.FacadePattern.Fachada", "ElTavo.FacadePattern.Fachada\ElTavo.FacadePattern.Fachada.csproj", "{719B04C8-0053-4D32-B2C5-AF0ACBFA969B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElTavo.FacadePattern.ClienteFacturacion", "ElTavo.FacadePattern.ClienteFacturacion\ElTavo.FacadePattern.ClienteFacturacion.csproj", "{81DDD0CF-517B-42B4-88D6-FB2EDFA98677}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElTavo.FacadePattern.Dominio", "ElTavo.FacadePattern.Dominio\ElTavo.FacadePattern.Dominio.csproj", "{5F234766-2F9C-47B6-BBE8-D91207EC4A29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B92D5EC-5323-4643-81BF-0D4D090C48F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B92D5EC-5323-4643-81BF-0D4D090C48F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B92D5EC-5323-4643-81BF-0D4D090C48F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B92D5EC-5323-4643-81BF-0D4D090C48F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{755E3908-C48A-4C62-A200-98EBCAE543C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{755E3908-C48A-4C62-A200-98EBCAE543C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{755E3908-C48A-4C62-A200-98EBCAE543C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{755E3908-C48A-4C62-A200-98EBCAE543C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E85267EC-79F5-41EB-8CB4-9585B284C267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85267EC-79F5-41EB-8CB4-9585B284C267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85267EC-79F5-41EB-8CB4-9585B284C267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85267EC-79F5-41EB-8CB4-9585B284C267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{719B04C8-0053-4D32-B2C5-AF0ACBFA969B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{719B04C8-0053-4D32-B2C5-AF0ACBFA969B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{719B04C8-0053-4D32-B2C5-AF0ACBFA969B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{719B04C8-0053-4D32-B2C5-AF0ACBFA969B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81DDD0CF-517B-42B4-88D6-FB2EDFA98677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81DDD0CF-517B-42B4-88D6-FB2EDFA98677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81DDD0CF-517B-42B4-88D6-FB2EDFA98677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81DDD0CF-517B-42B4-88D6-FB2EDFA98677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F234766-2F9C-47B6-BBE8-D91207EC4A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F234766-2F9C-47B6-BBE8-D91207EC4A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F234766-2F9C-47B6-BBE8-D91207EC4A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F234766-2F9C-47B6-BBE8-D91207EC4A29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

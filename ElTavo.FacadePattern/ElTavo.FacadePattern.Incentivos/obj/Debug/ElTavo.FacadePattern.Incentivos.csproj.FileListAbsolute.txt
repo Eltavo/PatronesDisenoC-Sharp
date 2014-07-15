@@ -1,0 +1,7 @@
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Incentivos\bin\Debug\ElTavo.FacadePattern.Incentivos.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Incentivos\bin\Debug\ElTavo.FacadePattern.Incentivos.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Incentivos\bin\Debug\ElTavo.FacadePattern.Dominio.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Incentivos\bin\Debug\ElTavo.FacadePattern.Dominio.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Incentivos\obj\Debug\ElTavo.FacadePattern.Incentivos.csprojResolveAssemblyReference.cache
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Incentivos\obj\Debug\ElTavo.FacadePattern.Incentivos.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Incentivos\obj\Debug\ElTavo.FacadePattern.Incentivos.pdb

@@ -1,0 +1,5 @@
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Dominio\bin\Debug\ElTavo.FacadePattern.Dominio.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Dominio\bin\Debug\ElTavo.FacadePattern.Dominio.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Dominio\obj\Debug\ElTavo.FacadePattern.Dominio.csprojResolveAssemblyReference.cache
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Dominio\obj\Debug\ElTavo.FacadePattern.Dominio.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Dominio\obj\Debug\ElTavo.FacadePattern.Dominio.pdb

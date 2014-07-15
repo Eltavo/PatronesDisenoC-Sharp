@@ -1,0 +1,13 @@
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Fachada\bin\Debug\ElTavo.FacadePattern.Fachada.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Fachada\bin\Debug\ElTavo.FacadePattern.Fachada.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Fachada\obj\Debug\ElTavo.FacadePattern.Fachada.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Fachada\obj\Debug\ElTavo.FacadePattern.Fachada.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Fachada\bin\Debug\ElTavo.FacadePattern.Beneficios.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Fachada\bin\Debug\ElTavo.FacadePattern.Dominio.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Fachada\bin\Debug\ElTavo.FacadePattern.Incentivos.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Fachada\bin\Debug\ElTavo.FacadePattern.Nomina.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Fachada\bin\Debug\ElTavo.FacadePattern.Beneficios.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Fachada\bin\Debug\ElTavo.FacadePattern.Dominio.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Fachada\bin\Debug\ElTavo.FacadePattern.Incentivos.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Fachada\bin\Debug\ElTavo.FacadePattern.Nomina.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.FacadePattern\ElTavo.FacadePattern.Fachada\obj\Debug\ElTavo.FacadePattern.Fachada.csprojResolveAssemblyReference.cache
