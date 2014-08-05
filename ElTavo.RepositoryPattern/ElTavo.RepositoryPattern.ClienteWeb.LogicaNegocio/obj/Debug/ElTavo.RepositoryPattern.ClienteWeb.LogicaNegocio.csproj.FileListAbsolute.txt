@@ -1,0 +1,4 @@
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.ClienteWeb.LogicaNegocio\bin\Debug\ElTavo.RepositoryPattern.ClienteWeb.LogicaNegocio.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.ClienteWeb.LogicaNegocio\bin\Debug\ElTavo.RepositoryPattern.ClienteWeb.LogicaNegocio.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.ClienteWeb.LogicaNegocio\obj\Debug\ElTavo.RepositoryPattern.ClienteWeb.LogicaNegocio.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.ClienteWeb.LogicaNegocio\obj\Debug\ElTavo.RepositoryPattern.ClienteWeb.LogicaNegocio.pdb

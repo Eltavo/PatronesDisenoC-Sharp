@@ -1,0 +1,5 @@
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.SqlRepository\bin\Debug\ElTavo.RepositoryPattern.SqlRepository.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.SqlRepository\bin\Debug\ElTavo.RepositoryPattern.SqlRepository.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.SqlRepository\obj\Debug\ElTavo.RepositoryPattern.SqlRepository.csprojResolveAssemblyReference.cache
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.SqlRepository\obj\Debug\ElTavo.RepositoryPattern.SqlRepository.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.SqlRepository\obj\Debug\ElTavo.RepositoryPattern.SqlRepository.pdb

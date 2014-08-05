@@ -1,0 +1,5 @@
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.MongoRepository\bin\Debug\ElTavo.RepositoryPattern.MongoRepository.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.MongoRepository\bin\Debug\ElTavo.RepositoryPattern.MongoRepository.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.MongoRepository\obj\Debug\ElTavo.RepositoryPattern.MongoRepository.csprojResolveAssemblyReference.cache
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.MongoRepository\obj\Debug\ElTavo.RepositoryPattern.MongoRepository.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.MongoRepository\obj\Debug\ElTavo.RepositoryPattern.MongoRepository.pdb

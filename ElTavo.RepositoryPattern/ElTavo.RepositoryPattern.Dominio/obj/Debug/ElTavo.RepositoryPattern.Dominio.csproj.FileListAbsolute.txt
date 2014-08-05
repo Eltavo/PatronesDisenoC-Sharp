@@ -1,0 +1,5 @@
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.Dominio\bin\Debug\ElTavo.RepositoryPattern.Dominio.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.Dominio\bin\Debug\ElTavo.RepositoryPattern.Dominio.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.Dominio\obj\Debug\ElTavo.RepositoryPattern.Dominio.csprojResolveAssemblyReference.cache
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.Dominio\obj\Debug\ElTavo.RepositoryPattern.Dominio.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.Dominio\obj\Debug\ElTavo.RepositoryPattern.Dominio.pdb
