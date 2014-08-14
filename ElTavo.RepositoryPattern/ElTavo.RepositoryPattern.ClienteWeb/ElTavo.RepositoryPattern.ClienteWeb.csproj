@@ -40,6 +40,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
@@ -92,10 +96,6 @@
     <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <Private>True</Private>
       <HintPath>..\packages\Microsoft.AspNet.WebPages.3.1.2\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <Private>True</Private>
-      <HintPath>..\packages\Newtonsoft.Json.5.0.6\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="WebGrease">
       <Private>True</Private>
@@ -160,6 +160,9 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\ArticuloController.cs" />
+    <Compile Include="Controllers\DatosContactoController.cs" />
+    <Compile Include="Controllers\EmpleadoController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -220,6 +223,9 @@
     <Content Include="Views\Account\ResetPassword.cshtml" />
     <Content Include="Views\Account\ResetPasswordConfirmation.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Empleado\Index.cshtml" />
+    <Content Include="Views\Articulo\Index.cshtml" />
+    <Content Include="Views\DatosContacto\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -230,6 +236,28 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ElTavo.RepositoryPattern.ApiRepository\ElTavo.RepositoryPattern.ApiRepository.csproj">
+      <Project>{25CFAD1F-17CE-4497-88FB-0F761B25E9E3}</Project>
+      <Name>ElTavo.RepositoryPattern.ApiRepository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ElTavo.RepositoryPattern.Contrato\ElTavo.RepositoryPattern.Contrato.csproj">
+      <Project>{A812E3A8-D95E-462C-8B31-A0576CA2AD1D}</Project>
+      <Name>ElTavo.RepositoryPattern.Contrato</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ElTavo.RepositoryPattern.Dominio\ElTavo.RepositoryPattern.Dominio.csproj">
+      <Project>{1cb54eef-b6e2-4d9e-a690-1183445a4f6f}</Project>
+      <Name>ElTavo.RepositoryPattern.Dominio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ElTavo.RepositoryPattern.MongoRepository\ElTavo.RepositoryPattern.MongoRepository.csproj">
+      <Project>{98618E79-C925-45B9-B8EF-B21D30EDC0D3}</Project>
+      <Name>ElTavo.RepositoryPattern.MongoRepository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ElTavo.RepositoryPattern.SqlRepository\ElTavo.RepositoryPattern.SqlRepository.csproj">
+      <Project>{ac601f08-3e87-407d-8899-eddb315c6c42}</Project>
+      <Name>ElTavo.RepositoryPattern.SqlRepository</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

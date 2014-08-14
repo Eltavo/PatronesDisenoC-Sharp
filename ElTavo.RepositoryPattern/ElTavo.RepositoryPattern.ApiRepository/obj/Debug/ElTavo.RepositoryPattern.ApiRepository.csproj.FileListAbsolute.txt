@@ -3,3 +3,12 @@ D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.Api
 D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.ApiRepository\obj\Debug\ElTavo.RepositoryPattern.ApiRepository.csprojResolveAssemblyReference.cache
 D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.ApiRepository\obj\Debug\ElTavo.RepositoryPattern.ApiRepository.dll
 D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.ApiRepository\obj\Debug\ElTavo.RepositoryPattern.ApiRepository.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.ApiRepository\bin\Debug\ElTavo.RepositoryPattern.Dominio.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.ApiRepository\bin\Debug\ElTavo.RepositoryPattern.Dominio.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.ApiRepository\bin\Debug\AutoMapper.Net4.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.ApiRepository\bin\Debug\AutoMapper.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.ApiRepository\bin\Debug\AutoMapper.xml
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.ApiRepository\bin\Debug\Newtonsoft.Json.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.ApiRepository\bin\Debug\Newtonsoft.Json.xml
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.ApiRepository\bin\Debug\ElTavo.RepositoryPattern.Contrato.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.ApiRepository\bin\Debug\ElTavo.RepositoryPattern.Contrato.pdb

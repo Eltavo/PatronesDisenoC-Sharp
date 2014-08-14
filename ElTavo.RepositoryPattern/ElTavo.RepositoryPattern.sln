@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElTavo.RepositoryPattern.Cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElTavo.RepositoryPattern.Contrato", "ElTavo.RepositoryPattern.Contrato\ElTavo.RepositoryPattern.Contrato.csproj", "{A812E3A8-D95E-462C-8B31-A0576CA2AD1D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServiciosExternos", "ServiciosExternos", "{898D4657-BDCC-4A51-932B-F9DCB607AC54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElTavo.RepositoryPattern.Apis", "ElTavo.RepositoryPattern.Apis\ElTavo.RepositoryPattern.Apis.csproj", "{15ADA203-7559-4DD4-B548-402B2D2FD3B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,10 @@ Global
 		{A812E3A8-D95E-462C-8B31-A0576CA2AD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A812E3A8-D95E-462C-8B31-A0576CA2AD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A812E3A8-D95E-462C-8B31-A0576CA2AD1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15ADA203-7559-4DD4-B548-402B2D2FD3B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15ADA203-7559-4DD4-B548-402B2D2FD3B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15ADA203-7559-4DD4-B548-402B2D2FD3B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15ADA203-7559-4DD4-B548-402B2D2FD3B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,5 +77,6 @@ Global
 		{CA874BC0-CC6D-433D-8D0F-9B64B083A6AE} = {56E509EA-7F60-4BFD-9D84-9BA04E117C87}
 		{3C0258FF-6CC6-46C7-B4A4-A04E93A55917} = {56E509EA-7F60-4BFD-9D84-9BA04E117C87}
 		{A812E3A8-D95E-462C-8B31-A0576CA2AD1D} = {7F0FFC32-F4C1-4C2C-BFA3-905119603385}
+		{15ADA203-7559-4DD4-B548-402B2D2FD3B4} = {898D4657-BDCC-4A51-932B-F9DCB607AC54}
 	EndGlobalSection
 EndGlobal

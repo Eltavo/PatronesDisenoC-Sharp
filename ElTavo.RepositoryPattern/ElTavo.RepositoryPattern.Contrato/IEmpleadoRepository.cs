@@ -9,10 +9,10 @@ namespace ElTavo.RepositoryPattern.Contrato
 {
     public interface IEmpleadoRepository
     {
-        ICollection<Empleado> ObtenerEmpleados();
+        List<Empleado> ObtenerEmpleados();
 
         Empleado ObtenEmpleadoPoId(string id);
 
-        bool GuardarEmpleado(Empleado empleado);
+        void GuardarEmpleado(Empleado empleado);
     }
 }

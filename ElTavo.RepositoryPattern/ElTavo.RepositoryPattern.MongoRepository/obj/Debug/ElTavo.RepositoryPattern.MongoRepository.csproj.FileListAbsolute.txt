@@ -3,3 +3,14 @@ D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.Mon
 D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.MongoRepository\obj\Debug\ElTavo.RepositoryPattern.MongoRepository.csprojResolveAssemblyReference.cache
 D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.MongoRepository\obj\Debug\ElTavo.RepositoryPattern.MongoRepository.dll
 D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.MongoRepository\obj\Debug\ElTavo.RepositoryPattern.MongoRepository.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.MongoRepository\bin\Debug\ElTavo.RepositoryPattern.Dominio.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.MongoRepository\bin\Debug\ElTavo.RepositoryPattern.Dominio.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.MongoRepository\bin\Debug\AutoMapper.Net4.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.MongoRepository\bin\Debug\AutoMapper.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.MongoRepository\bin\Debug\AutoMapper.xml
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.MongoRepository\bin\Debug\ElTavo.RepositoryPattern.Contrato.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.MongoRepository\bin\Debug\MongoDB.Bson.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.MongoRepository\bin\Debug\MongoDB.Driver.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.MongoRepository\bin\Debug\ElTavo.RepositoryPattern.Contrato.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.MongoRepository\bin\Debug\MongoDB.Bson.xml
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.MongoRepository\bin\Debug\MongoDB.Driver.xml

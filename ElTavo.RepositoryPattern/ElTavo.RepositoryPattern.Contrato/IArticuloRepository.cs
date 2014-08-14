@@ -9,12 +9,12 @@ namespace ElTavo.RepositoryPattern.Contrato
 {
     public interface IArticuloRepository
     {
-        ICollection<Articulo> ObtenerArticulos();
+        List<Articulo> ObtenerArticulos();
 
         Articulo ObtenArticuloPorId(string id);
 
         ICollection<Articulo> ObtenerArticulosPorIdEmpleado(string idEmpleado);
 
-        bool GuardarArticulo(Articulo articulo);
+        void GuardarArticulo(Articulo articulo);
     }
 }

@@ -1,0 +1,51 @@
+﻿@model ElTavo.RepositoryPattern.Dominio.DatosContacto
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<div>
+    <h4>DatosContacto</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.SitioWeb)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SitioWeb)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FaceBook)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FaceBook)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Twitter)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Twitter)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LinkedIn)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LinkedIn)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

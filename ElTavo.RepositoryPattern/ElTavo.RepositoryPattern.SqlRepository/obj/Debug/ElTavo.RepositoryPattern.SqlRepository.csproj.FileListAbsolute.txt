@@ -3,3 +3,15 @@ D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.Sql
 D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.SqlRepository\obj\Debug\ElTavo.RepositoryPattern.SqlRepository.csprojResolveAssemblyReference.cache
 D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.SqlRepository\obj\Debug\ElTavo.RepositoryPattern.SqlRepository.dll
 D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.SqlRepository\obj\Debug\ElTavo.RepositoryPattern.SqlRepository.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.SqlRepository\bin\Debug\ElTavo.RepositoryPattern.SqlRepository.dll.config
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.SqlRepository\bin\Debug\ElTavo.RepositoryPattern.Dominio.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.SqlRepository\bin\Debug\EntityFramework.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.SqlRepository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.SqlRepository\bin\Debug\ElTavo.RepositoryPattern.Dominio.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.SqlRepository\bin\Debug\EntityFramework.xml
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.SqlRepository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.SqlRepository\bin\Debug\ElTavo.RepositoryPattern.Contrato.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.SqlRepository\bin\Debug\ElTavo.RepositoryPattern.Contrato.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.SqlRepository\bin\Debug\AutoMapper.Net4.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.SqlRepository\bin\Debug\AutoMapper.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.SqlRepository\bin\Debug\AutoMapper.xml

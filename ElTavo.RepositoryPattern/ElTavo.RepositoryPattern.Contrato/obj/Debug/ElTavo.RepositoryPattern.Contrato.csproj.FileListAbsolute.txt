@@ -2,3 +2,9 @@ D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.Con
 D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.Contrato\bin\Debug\ElTavo.RepositoryPattern.Contrato.pdb
 D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.Contrato\obj\Debug\ElTavo.RepositoryPattern.Contrato.dll
 D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.Contrato\obj\Debug\ElTavo.RepositoryPattern.Contrato.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.Contrato\bin\Debug\ElTavo.RepositoryPattern.Dominio.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.Contrato\bin\Debug\ElTavo.RepositoryPattern.Dominio.pdb
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.Contrato\obj\Debug\ElTavo.RepositoryPattern.Contrato.csprojResolveAssemblyReference.cache
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.Contrato\bin\Debug\AutoMapper.Net4.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.Contrato\bin\Debug\AutoMapper.dll
+D:\Tavo\Proyectos\Patrones\ElTavo.RepositoryPattern\ElTavo.RepositoryPattern.Contrato\bin\Debug\AutoMapper.xml
