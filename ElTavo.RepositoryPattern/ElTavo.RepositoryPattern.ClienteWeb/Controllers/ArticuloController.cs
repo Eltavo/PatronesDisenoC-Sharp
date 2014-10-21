@@ -1,26 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
+﻿using ElTavo.RepositoryPattern.Contrato;
 using ElTavo.RepositoryPattern.MongoRepository.Articulo;
+using System.Web.Mvc;
+using Articulo = ElTavo.RepositoryPattern.Dominio.Articulo;
 
 namespace ElTavo.RepositoryPattern.ClienteWeb.Controllers
 {
     public class ArticuloController : Controller
     {
+        private IArticuloRepository _articuloRepository;
+
         // GET: Articulo
         public ActionResult Index()
         {
-            var articuloRepository = new ArticuloRepository();
-            var articulos = articuloRepository.ObtenerArticulos();
+            _articuloRepository = new ArticuloRepository();
+            var articulos = _articuloRepository.ObtenerArticulos();
             return View(articulos);
-        }
-
-        // GET: Articulo/Details/5
-        public ActionResult Details(int id)
-        {
-            return View();
         }
 
         // GET: Articulo/Create
@@ -31,11 +25,13 @@ namespace ElTavo.RepositoryPattern.ClienteWeb.Controllers
 
         // POST: Articulo/Create
         [HttpPost]
-        public ActionResult Create(FormCollection collection)
+        [ValidateInput(false)]
+        public ActionResult Create(Articulo model)
         {
             try
             {
-                // TODO: Add insert logic here
+                _articuloRepository = new ArticuloRepository();
+                _articuloRepository.GuardarArticulo(model);
 
                 return RedirectToAction("Index");
             }
@@ -43,6 +39,12 @@ namespace ElTavo.RepositoryPattern.ClienteWeb.Controllers
             {
                 return View();
             }
+        }
+
+        // GET: Articulo/Details/5
+        public ActionResult Details(int id)
+        {
+            return View();
         }
 
         // GET: Articulo/Edit/5

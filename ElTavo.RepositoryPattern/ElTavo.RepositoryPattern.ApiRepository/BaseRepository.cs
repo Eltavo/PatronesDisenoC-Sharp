@@ -22,7 +22,7 @@ namespace ElTavo.RepositoryPattern.ApiRepository
             client.DefaultRequestHeaders.Accept.Add(
                 new MediaTypeWithQualityHeaderValue("application/json"));
 
-            HttpResponseMessage response = client.GetAsync("api/DatosContacto/1").Result;
+            HttpResponseMessage response = client.GetAsync(string.Format("api/DatosContacto/{0}", id)).Result;
 
             if (response.IsSuccessStatusCode)
             {

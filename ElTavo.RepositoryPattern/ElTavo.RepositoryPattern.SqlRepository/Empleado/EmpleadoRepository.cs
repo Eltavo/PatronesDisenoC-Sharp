@@ -28,6 +28,7 @@ namespace ElTavo.RepositoryPattern.SqlRepository.Empleado
             var emple = AutoMapper.Mapper.Map<Empleado>(empleado);
 
             Insertar(emple);
+            GuardarCambios();
         }
     }
 }

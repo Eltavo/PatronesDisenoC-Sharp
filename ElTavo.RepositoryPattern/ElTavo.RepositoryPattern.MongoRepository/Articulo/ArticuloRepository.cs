@@ -24,16 +24,6 @@ namespace ElTavo.RepositoryPattern.MongoRepository.Articulo
                 ));
         }
 
-        public Dominio.Articulo ObtenArticuloPorId(string id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public ICollection<Dominio.Articulo> ObtenerArticulosPorIdEmpleado(string idEmpleado)
-        {
-            throw new NotImplementedException();
-        }
-
         public void GuardarArticulo(Dominio.Articulo articulo)
         {
             AutoMapper.Mapper.CreateMap<Dominio.Articulo, Articulo>();

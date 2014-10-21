@@ -11,10 +11,6 @@ namespace ElTavo.RepositoryPattern.Contrato
     {
         List<Articulo> ObtenerArticulos();
 
-        Articulo ObtenArticuloPorId(string id);
-
-        ICollection<Articulo> ObtenerArticulosPorIdEmpleado(string idEmpleado);
-
         void GuardarArticulo(Articulo articulo);
     }
 }

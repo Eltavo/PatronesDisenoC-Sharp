@@ -1,0 +1,75 @@
+﻿@model ElTavo.RepositoryPattern.Dominio.Empleado
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Empleado</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Telefono)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Telefono)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Direccion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Direccion)
+        </dd>
+        
+        <dt>
+            @Html.DisplayNameFor(model => model.DatosContacto.FaceBook)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DatosContacto.FaceBook)
+        </dd>
+        
+        <dt>
+            @Html.DisplayNameFor(model => model.DatosContacto.Twitter)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DatosContacto.Twitter)
+        </dd>
+        
+        <dt>
+            @Html.DisplayNameFor(model => model.DatosContacto.LinkedIn)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DatosContacto.LinkedIn)
+        </dd>
+        
+        <dt>
+            @Html.DisplayNameFor(model => model.DatosContacto.SitioWeb)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DatosContacto.SitioWeb)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

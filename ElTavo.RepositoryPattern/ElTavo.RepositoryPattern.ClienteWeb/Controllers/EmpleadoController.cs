@@ -1,50 +1,58 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
-using ElTavo.RepositoryPattern.Dominio;
-using ElTavo.RepositoryPattern.SqlRepository;
+using ElTavo.RepositoryPattern.ApiRepository.DatosContacto;
+using ElTavo.RepositoryPattern.Contrato;
 using ElTavo.RepositoryPattern.SqlRepository.Empleado;
+using System.Web.Mvc;
+using Empleado = ElTavo.RepositoryPattern.Dominio.Empleado;
 
 namespace ElTavo.RepositoryPattern.ClienteWeb.Controllers
 {
     public class EmpleadoController : Controller
     {
+        private IEmpleadoRepository empleadoRepository;
+
         // GET: Empleado
         public ActionResult Index()
         {
-            var empleadoRepository = new EmpleadoRepository();
+            empleadoRepository = new EmpleadoRepository();
             var empleados = empleadoRepository.ObtenerEmpleados();
             return View(empleados);
         }
 
         // GET: Empleado/Details/5
-        public ActionResult Details(int id)
+        public ActionResult Details(string id)
         {
-            return View();
+            empleadoRepository = new EmpleadoRepository();
+            var empleado = empleadoRepository.ObtenEmpleadoPoId(id.ToString());
+
+            var datosRepository = new DatosContactoRepository();
+            empleado.DatosContacto = datosRepository.ObtenerDatosContactoEmpleado(id.ToString());
+
+            return View(empleado);
+        }
+
+        // POST: Empleado/Create
+        [HttpPost]
+        public ActionResult Create(Empleado model)
+        {
+            try
+            {
+                empleadoRepository = new EmpleadoRepository();
+                model.Id = DateTime.Now.Ticks.ToString();
+                empleadoRepository.GuardarEmpleado(model);
+
+                return RedirectToAction("Index");
+            }
+            catch
+            {
+                return View(model);
+            }
         }
 
         // GET: Empleado/Create
         public ActionResult Create()
         {
             return View();
-        }
-
-        // POST: Empleado/Create
-        [HttpPost]
-        public ActionResult Create(FormCollection collection)
-        {
-            try
-            {
-                // TODO: Add insert logic here
-
-                return RedirectToAction("Index");
-            }
-            catch
-            {
-                return View();
-            }
         }
 
         // GET: Empleado/Edit/5
